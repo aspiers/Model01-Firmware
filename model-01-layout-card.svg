@@ -1151,24 +1151,24 @@
          x="-152.103px"
          y="1483.21px"
          style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
-         id="text6658">Shi</text>
+         id="text6658">PgDn</text>
 <text
          x="-121.723px"
          y="1483.21px"
          style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
-         id="text6660">f</text>
+         id="text6660"></text>
 <text
          x="-114.732px"
          y="1483.21px"
          style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
-         id="text6662">t</text>
+         id="text6662"></text>
 </g><g
-       transform="matrix(0.651907,-0.758299,0.758299,0.651907,7.62837,17.3894)"
+       transform="matrix(0.651907,-0.758299,0.758299,0.651907,0.07205056,24.190087)"
        id="g6664"><text
-         x="206.958px"
-         y="1473.87px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
-         id="text6666">Alt</text>
+         x="206.95799"
+         y="1473.87"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
+         id="text6666">PgUp</text>
 </g><g
        transform="matrix(0.783734,-0.621097,0.621097,0.783734,20.8635,-1.57446)"
        id="g6668"><text
