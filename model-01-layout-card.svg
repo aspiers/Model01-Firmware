@@ -1473,10 +1473,15 @@
 </g><g
        transform="matrix(0.981627,0.190809,-0.190809,0.981627,5.16,2.04)"
        id="g6838"><text
-         x="272.202"
-         y="380.04999"
+         x="269.8656"
+         y="385.63879"
          style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
-         id="text6840">PgUp</text>
+         id="text6840">-</text>
+<text
+         x="269.91986"
+         y="358.08969"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book';clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round"
+         id="text6840-3">_</text>
 </g><g
        transform="matrix(0.961261,-0.27564,0.27564,0.961261,3.87235,19.0009)"
        id="g6842"><text
