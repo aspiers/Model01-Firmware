@@ -354,11 +354,11 @@
          style="font-family:'GothamBook', 'Gotham Book';font-size:20px;fill:rgb(0,0,255);"
          id="text6060">Insert</text>
 </g><g
-       transform="matrix(0.778185,0.628035,-0.628035,0.778185,-34.849,10.7417)"
+       transform="matrix(0.88639682,0.46292605,-0.46292605,0.88639682,-240.83276,129.1901)"
        id="g6062"><text
-         x="1030.15px"
-         y="66.72px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;fill:rgb(0,0,255);"
+         x="1030.15"
+         y="66.720001"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book';fill:#0000ff"
          id="text6064">Del</text>
 </g><g
        transform="matrix(0.776655,-0.629926,0.629926,0.776655,-2.77949,10.1098)"
@@ -1407,14 +1407,15 @@
          style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6802">P</text>
 </g><g
-       transform="matrix(0.877988,0.478683,-0.478683,0.877988,-36.6227,42.7243)"
+       transform="matrix(0.877988,0.478683,-0.478683,0.877988,46.496814,10.987758)"
        id="g6804"><text
-         x="892.245"
-         y="253.229"
+         x="962.28448"
+         y="187.85115"
          style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
-         id="text6806">Ctrl</text>
+         id="text6806"
+         transform="matrix(0.98883355,0.14902422,-0.14902422,0.98883355,0,0)">Ctrl</text>
 </g><g
-       transform="matrix(0.783198,0.621772,-0.621772,0.783198,-27.792,38.0937)"
+       transform="matrix(0.89871033,0.43854219,-0.43854219,0.89871033,-233.36668,171.76994)"
        id="g6808"><text
          x="998.18298"
          y="95.473"
