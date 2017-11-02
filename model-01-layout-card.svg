@@ -1127,9 +1127,9 @@
      id="Layer-0"><g
        transform="matrix(0.961261,-0.27564,0.27564,0.961261,0.36,0)"
        id="g6644"><text
-         x="1293.96px"
-         y="625.567px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1293.96"
+         y="625.56702"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6646">8</text>
 </g><g
        transform="matrix(0.719339,0.694659,-0.694659,0.719339,-2.47845,-1.13157)"
@@ -1141,26 +1141,26 @@
 </g><g
        transform="matrix(0.731351,-0.682001,0.682001,0.731351,-1.38554,2.38115)"
        id="g6652"><text
-         x="387.214px"
-         y="1685.14px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:24px;"
+         x="387.21399"
+         y="1685.14"
+         style="font-size:24px;font-family:GothamBook, 'Gotham Book'"
          id="text6654">Fn</text>
 </g><g
        transform="matrix(0.513278,-0.858222,0.858222,0.513278,13.8726,8.12291)"
        id="g6656"><text
-         x="-152.103px"
-         y="1483.21px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="-152.103"
+         y="1483.21"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6658">PgDn</text>
 <text
-         x="-121.723px"
-         y="1483.21px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="-121.723"
+         y="1483.21"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6660"></text>
 <text
-         x="-114.732px"
-         y="1483.21px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="-114.732"
+         y="1483.21"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6662"></text>
 </g><g
        transform="matrix(0.651907,-0.758299,0.758299,0.651907,0.07205056,24.190087)"
@@ -1172,478 +1172,479 @@
 </g><g
        transform="matrix(0.783734,-0.621097,0.621097,0.783734,20.8635,-1.57446)"
        id="g6668"><text
-         x="543.097px"
-         y="1403.28px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="543.09698"
+         y="1403.28"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6670">Spc</text>
 </g><g
        transform="matrix(0.88732,-0.461154,0.461154,0.88732,17.9612,0.188603)"
        id="g6672"><text
-         x="888.199px"
-         y="1262.19px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="888.19897"
+         y="1262.1899"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6674">Ctrl</text>
 </g><g
        transform="matrix(0.965926,0.258819,-0.258819,0.965926,0,0)"
        id="g6676"><text
-         x="609.586px"
-         y="86.593px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="609.586"
+         y="86.593002"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6678">3</text>
 </g><g
        transform="matrix(0.978148,0.20791,-0.20791,0.978148,0,0)"
        id="g6680"><text
-         x="391.723px"
-         y="276.704px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="391.72299"
+         y="276.70401"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6682">Q</text>
 </g><g
        transform="matrix(0.970296,0.241919,-0.241919,0.970296,0,0)"
        id="g6684"><text
-         x="500.986px"
-         y="211.551px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="500.98599"
+         y="211.55099"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6686">W</text>
 </g><g
        transform="matrix(0.965926,0.258819,-0.258819,0.965926,0,0)"
        id="g6688"><text
-         x="609.865px"
-         y="174.568px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="609.86499"
+         y="174.56799"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6690">E</text>
 </g><g
        transform="matrix(0.961261,0.27564,-0.27564,0.961261,0,0)"
        id="g6692"><text
-         x="817.482px"
-         y="189.1px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="817.48199"
+         y="189.10001"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6694">T</text>
 </g><g
        transform="matrix(0.981627,0.190809,-0.190809,0.981627,0,0)"
        id="g6696"><text
-         x="387.194px"
-         y="380.777px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="387.194"
+         y="380.77701"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6698">A</text>
 </g><g
        transform="matrix(0.970296,0.241919,-0.241919,0.970296,0,0)"
        id="g6700"><text
-         x="505.839px"
-         y="305.512px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="505.83899"
+         y="305.51199"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6702">S</text>
 </g><g
        transform="matrix(0.965926,0.258819,-0.258819,0.965926,0,0)"
        id="g6704"><text
-         x="610.575px"
-         y="271.503px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="610.57501"
+         y="271.50299"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6706">D</text>
 </g><g
        transform="matrix(0.961261,0.27564,-0.27564,0.961261,0,0)"
        id="g6708"><text
-         x="814.992px"
-         y="281.133px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="814.992"
+         y="281.133"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6710">G</text>
 </g><g
        transform="matrix(0.981627,0.190809,-0.190809,0.981627,0,0)"
        id="g6712"><text
-         x="383.546px"
-         y="485.198px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="383.54599"
+         y="485.198"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6714">Z</text>
 </g><g
        transform="matrix(0.970296,0.241919,-0.241919,0.970296,0,0)"
        id="g6716"><text
-         x="506.539px"
-         y="418.615px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="506.539"
+         y="418.61499"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6718">X</text>
 </g><g
        transform="matrix(0.965926,0.258819,-0.258819,0.965926,0,0)"
        id="g6720"><text
-         x="610.953px"
-         y="382.178px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="610.953"
+         y="382.17801"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6722">C</text>
 </g><g
        transform="matrix(0.961261,0.27564,-0.27564,0.961261,0,0)"
        id="g6724"><text
-         x="816.163px"
-         y="382.453px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="816.16302"
+         y="382.453"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6726">B</text>
 </g><g
        transform="matrix(0.970296,0.241919,-0.241919,0.970296,0,0)"
        id="g6728"><text
-         x="501.671px"
-         y="119.979px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="501.67099"
+         y="119.979"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6730">2</text>
 </g><g
        transform="matrix(0.961261,0.27564,-0.27564,0.961261,0,0)"
        id="g6732"><text
-         x="715.908px"
-         y="80.092px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="715.90802"
+         y="80.092003"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6734">4</text>
 </g><g
        transform="matrix(0.961261,0.27564,-0.27564,0.961261,0,0)"
        id="g6736"><text
-         x="818.508px"
-         y="97.762px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="818.508"
+         y="97.762001"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6738">5</text>
 </g><g
        transform="matrix(0.970296,-0.241919,0.241919,0.970296,0,0)"
        id="g6740"><text
-         x="1113.94px"
-         y="610.963px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1113.9399"
+         y="610.96301"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6742">6</text>
 </g><g
        transform="matrix(0.961261,-0.27564,0.27564,0.961261,0,0)"
        id="g6744"><text
-         x="1191.69px"
-         y="629.707px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1191.6899"
+         y="629.70697"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6746">7</text>
 </g><g
        transform="matrix(0.970296,-0.241919,0.241919,0.970296,0,0)"
        id="g6748"><text
-         x="1422.99px"
-         y="592.577px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1422.99"
+         y="592.57703"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6750">9</text>
 </g><g
        transform="matrix(0.978148,-0.20791,0.20791,0.978148,0,0)"
        id="g6752"><text
-         x="1555.61px"
-         y="577.46px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1555.61"
+         y="577.46002"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6754">0</text>
 </g><g
        transform="matrix(0.115911,-0.0310583,0.0310583,0.115911,-3.02549,434.848)"
        id="g6756"><path
-         d="M13784.5,1843.05L13714,1974.43"
-         style="fill:white;stroke:black;stroke-width:16.67px;stroke-linejoin:round;stroke-miterlimit:1.5;"
-         id="path6758" /></g><g
+         d="m 13784.5,1843.05 -70.5,131.38"
+         style="fill:#ffffff;stroke:#000000;stroke-width:16.67000008px;stroke-linejoin:round;stroke-miterlimit:1.5"
+         id="path6758"
+         inkscape:connector-curvature="0" /></g><g
        transform="matrix(0.970296,-0.241919,0.241919,0.970296,0,0)"
        id="g6760"><text
-         x="1112.38px"
-         y="708.071px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1112.38"
+         y="708.07098"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6762">Y</text>
 </g><g
        transform="matrix(0.961261,-0.27564,0.27564,0.961261,0,0)"
        id="g6764"><text
-         x="1192.03px"
-         y="723.18px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1192.03"
+         y="723.17999"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6766">U</text>
 </g><g
        transform="matrix(0.961261,-0.27564,0.27564,0.961261,-1.56,0.84)"
        id="g6768"><text
-         x="1300.48px"
-         y="717.75px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1300.48"
+         y="717.75"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6770">I</text>
 </g><g
        transform="matrix(0.970296,-0.241919,0.241919,0.970296,1.68,0)"
        id="g6772"><text
-         x="1415.75px"
-         y="694.594px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1415.75"
+         y="694.59399"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6774">O</text>
 </g><g
        transform="matrix(0.961261,-0.27564,0.27564,0.961261,0,0)"
        id="g6776"><text
-         x="1087.65px"
-         y="840.975px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1087.65"
+         y="840.97498"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6778">H</text>
 </g><g
        transform="matrix(0.961261,-0.27564,0.27564,0.961261,0,0)"
        id="g6780"><text
-         x="1189.11px"
-         y="819.375px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1189.11"
+         y="819.375"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6782">J</text>
 </g><g
        transform="matrix(0.965926,-0.258819,0.258819,0.965926,0,0)"
        id="g6784"><text
-         x="1305.93px"
-         y="793.801px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1305.9301"
+         y="793.80103"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6786">K</text>
 </g><g
        transform="matrix(0.970296,-0.241919,0.241919,0.970296,0,0)"
        id="g6788"><text
-         x="1422.64px"
-         y="790.207px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1422.64"
+         y="790.20697"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6790">L</text>
 </g><g
        transform="matrix(0.961261,-0.27564,0.27564,0.961261,0,0)"
        id="g6792"><text
-         x="1085.33px"
-         y="944.35px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1085.33"
+         y="944.34998"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6794">N</text>
 </g><g
        transform="matrix(0.961261,-0.27564,0.27564,0.961261,0,0)"
        id="g6796"><text
-         x="1185.68px"
-         y="924.4px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1185.6801"
+         y="924.40002"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6798">M</text>
 </g><g
        transform="matrix(0.981627,-0.190809,0.190809,0.981627,0,0)"
        id="g6800"><text
-         x="1563.08px"
-         y="669.942px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1563.08"
+         y="669.94202"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6802">P</text>
 </g><g
        transform="matrix(0.877988,0.478683,-0.478683,0.877988,-36.6227,42.7243)"
        id="g6804"><text
-         x="892.245px"
-         y="253.229px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="892.245"
+         y="253.229"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6806">Ctrl</text>
 </g><g
        transform="matrix(0.783198,0.621772,-0.621772,0.783198,-27.792,38.0937)"
        id="g6808"><text
-         x="998.183px"
-         y="95.473px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="998.18298"
+         y="95.473"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6810">BkSp</text>
 </g><g
        transform="matrix(0.649209,0.76061,-0.76061,0.649209,-16.6129,20.1622)"
        id="g6812"><text
-         x="1091.84px"
-         y="-91.146px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="1091.84"
+         y="-91.146004"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6814">Cmd</text>
 </g><g
        transform="matrix(0.498967,0.866621,-0.866621,0.498967,3.8388,-2.66824)"
        id="g6816"><text
-         x="1151.98px"
-         y="-272.588px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="1151.98"
+         y="-272.58801"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6818">Esc</text>
 <text
-         x="1182.36px"
-         y="-272.588px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="1182.36"
+         y="-272.58801"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6820"></text>
 <text
-         x="1189.35px"
-         y="-272.588px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="1189.35"
+         y="-272.58801"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6822"></text>
 </g><g
        transform="matrix(0.961261,0.27564,-0.27564,0.961261,12.36,-2.04)"
        id="g6824"><text
-         x="919.91px"
-         y="269.698px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="919.90997"
+         y="269.698"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6826">T</text>
 <text
-         x="929.57px"
-         y="269.698px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="929.57001"
+         y="269.698"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6828">ab</text>
 </g><g
        transform="matrix(0.961261,0.27564,-0.27564,0.961261,15.84,2.16)"
        id="g6830"><text
-         x="916.23px"
-         y="395.758px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="916.22998"
+         y="395.758"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6832">Esc</text>
 </g><g
        transform="matrix(0.961261,0.27564,-0.27564,0.961261,4.58772,16.9909)"
        id="g6834"><text
-         x="921.97px"
-         y="139.759px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="921.96997"
+         y="139.759"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6836">LED</text>
 </g><g
        transform="matrix(0.981627,0.190809,-0.190809,0.981627,5.16,2.04)"
        id="g6838"><text
-         x="272.202px"
-         y="380.05px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="272.202"
+         y="380.04999"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6840">PgUp</text>
 </g><g
        transform="matrix(0.961261,-0.27564,0.27564,0.961261,3.87235,19.0009)"
        id="g6842"><text
-         x="998.194px"
-         y="700.022px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="998.19397"
+         y="700.02197"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6844">Any</text>
 </g><g
        transform="matrix(0.96266,-0.270713,0.270713,0.96266,7.54619,-9.68719)"
        id="g6846"><text
-         x="984.514px"
-         y="832.062px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="984.51398"
+         y="832.06201"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6848">Enter</text>
 </g><g
        transform="matrix(0.981921,-0.18929,0.18929,0.981921,3.02279,40.5485)"
        id="g6850"><text
-         x="1681.25px"
-         y="533.676px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="1681.25"
+         y="533.67603"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6852">Num</text>
 </g><g
        transform="matrix(0.983938,0.178511,-0.178511,0.983938,6.46703,0.89168)"
        id="g6854"><text
-         x="271.324px"
-         y="492.651px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="271.32401"
+         y="492.651"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6856">PgDn</text>
 </g><g
        transform="matrix(0.984808,0.17365,-0.17365,0.984808,0,0)"
        id="g6858"><text
-         x="383.38px"
-         y="183.8px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="383.38"
+         y="183.8"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6860">1</text>
 </g><g
        transform="matrix(0.981768,0.190083,-0.190083,0.981768,-1.72687,11.2417)"
        id="g6862"><text
-         x="286.982px"
-         y="175.135px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="286.98199"
+         y="175.13499"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6864">P</text>
 <text
-         x="299.993px"
-         y="175.135px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="299.99301"
+         y="175.13499"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6866">r</text>
 <text
-         x="307.693px"
-         y="175.135px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;"
+         x="307.69299"
+         y="175.13499"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6868">og</text>
 </g><g
        transform="matrix(0.965926,0.258819,-0.258819,0.965926,0,0)"
        id="g6870"><text
-         x="711.7px"
-         y="378.151px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="711.70001"
+         y="378.151"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6872">V</text>
 </g><g
        transform="matrix(0.965926,0.258819,-0.258819,0.965926,0,0)"
        id="g6874"><text
-         x="715.69px"
-         y="182.58px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="715.69"
+         y="182.58"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6876">R</text>
 </g><g
        transform="matrix(0.981627,-0.190809,0.190809,0.981627,0,0)"
        id="g6878"><text
-         x="1667.1px"
-         y="653.435px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1667.1"
+         y="653.435"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6880">+</text>
 <text
-         x="1667.1px"
-         y="684.245px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1667.1"
+         y="684.245"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6882">=</text>
 </g><g
        transform="matrix(0.981627,-0.190809,0.190809,0.981627,0,0)"
        id="g6884"><text
-         x="1566.9px"
-         y="844.415px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1566.9"
+         y="844.41498"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6886">?</text>
 <text
-         x="1569.48px"
-         y="880.295px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1569.48"
+         y="880.29498"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6888">/</text>
 </g><g
        transform="matrix(0.981627,-0.190809,0.190809,0.981627,0,0)"
        id="g6890"><text
-         x="1575.78px"
-         y="739.535px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1575.78"
+         y="739.53497"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6892">:</text>
 <text
-         x="1575.78px"
-         y="773.135px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1575.78"
+         y="773.13501"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6894">;</text>
 </g><g
        transform="matrix(0.981627,-0.190809,0.190809,0.981627,0,0)"
        id="g6896"><text
-         x="1666.17px"
-         y="833.105px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1666.17"
+         y="833.10498"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6898">_</text>
 <text
-         x="1668.93px"
-         y="874.295px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1668.9301"
+         y="874.29498"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6900">-</text>
 </g><g
        transform="matrix(0.981627,-0.190809,0.190809,0.981627,0,0)"
        id="g6902"><text
-         x="1669.8px"
-         y="755.675px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1669.8"
+         y="755.67499"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6904">&quot;</text>
 <text
-         x="1673.52px"
-         y="784.865px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1673.52"
+         y="784.86499"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6906">'</text>
 </g><g
        transform="matrix(0.965926,0.258819,-0.258819,0.965926,0,0)"
        id="g6908"><text
-         x="713.162px"
-         y="279.826px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="713.16199"
+         y="279.82599"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6910">F</text>
 </g><g
        transform="matrix(0.97437,-0.22495,0.22495,0.97437,0,0)"
        id="g6912"><text
-         x="1437.78px"
-         y="853.912px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1437.78"
+         y="853.91199"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6914">&gt;</text>
 <text
-         x="1439.85px"
-         y="888.082px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1439.85"
+         y="888.08197"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6916">.</text>
 </g><g
        transform="matrix(0.965926,-0.258819,0.258819,0.965926,0,0)"
        id="g6918"><text
-         x="1304.1px"
-         y="884.017px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1304.1"
+         y="884.01703"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6920">&lt;</text>
 <text
-         x="1310.43px"
-         y="911.648px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="1310.4301"
+         y="911.64801"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6922">,</text>
 </g><g
        transform="matrix(0.981627,0.190809,-0.190809,0.981627,0,0)"
        id="g6924"><text
-         x="278.18px"
-         y="264.06px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="278.17999"
+         y="264.06"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6926">~</text>
 <text
-         x="274.82px"
-         y="304.65px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:30px;"
+         x="274.82001"
+         y="304.64999"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6928">`</text>
 </g></g><g
      transform="matrix(0.878107,0,0,0.878107,239.129,-139.018)"
