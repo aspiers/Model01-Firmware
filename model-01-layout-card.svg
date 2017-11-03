@@ -315,12 +315,7 @@
            id="text6038">F12</text>
 </g></g><g
        transform="matrix(0.981665,0.190613,-0.190613,0.981665,8.69575,-15.0386)"
-       id="g6040"><text
-         x="300.797px"
-         y="268.106px"
-         style="font-family:'GothamBook', 'Gotham Book';font-size:20px;fill:rgb(0,0,255);"
-         id="text6042">Tab</text>
-</g><g
+       id="g6040" /><g
        transform="matrix(0.981596,0.190969,-0.190969,0.981596,9.3827,-11.3021)"
        id="g6044"><text
          x="278.177px"
@@ -1446,18 +1441,6 @@
          style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6822" />
 </g><g
-       transform="matrix(0.961261,0.27564,-0.27564,0.961261,12.36,-2.04)"
-       id="g6824"><text
-         x="919.90997"
-         y="269.698"
-         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
-         id="text6826">T</text>
-<text
-         x="929.57001"
-         y="269.698"
-         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
-         id="text6828">ab</text>
-</g><g
        transform="matrix(0.961261,0.27564,-0.27564,0.961261,15.84,2.16)"
        id="g6830"><text
          x="916.22998"
@@ -1641,7 +1624,16 @@
          style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6922">,</text>
 </g><g
-       transform="matrix(0.981627,0.190809,-0.190809,0.981627,0,0)"
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round"
+       transform="matrix(0.961261,0.27564,-0.27564,0.961261,-584.3318,-187.14947)"
+       id="g6824"><text
+         x="919.90997"
+         y="269.698"
+         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
+         id="text6826">Tab</text>
+</g><g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round"
+       transform="matrix(0.981627,0.190809,-0.190809,0.981627,595.64083,188.98995)"
        id="g6924"><text
          x="278.17999"
          y="264.06"
