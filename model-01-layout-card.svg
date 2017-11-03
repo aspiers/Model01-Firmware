@@ -1461,20 +1461,11 @@
 </g><g
        transform="matrix(0.981768,0.190083,-0.190083,0.981768,-1.72687,11.2417)"
        id="g6862"><text
-         x="286.98199"
-         y="175.13499"
+         x="284.28357"
+         y="134.48174"
          style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
-         id="text6864">P</text>
-<text
-         x="299.99301"
-         y="175.13499"
-         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
-         id="text6866">r</text>
-<text
-         x="307.69299"
-         y="175.13499"
-         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
-         id="text6868">og</text>
+         id="text6864"
+         transform="matrix(0.99931204,-0.03708702,0.03708702,0.99931204,0,0)">Prog</text>
 </g><g
        transform="matrix(0.965926,0.258819,-0.258819,0.965926,0,0)"
        id="g6870"><text
@@ -1489,18 +1480,6 @@
          y="182.58"
          style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6876">R</text>
-</g><g
-       transform="matrix(0.981627,-0.190809,0.190809,0.981627,0,0)"
-       id="g6878"><text
-         x="1667.1"
-         y="653.435"
-         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
-         id="text6880">+</text>
-<text
-         x="1667.1"
-         y="684.245"
-         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
-         id="text6882">=</text>
 </g><g
        transform="matrix(0.981627,-0.190809,0.190809,0.981627,0,0)"
        id="g6884"><text
@@ -1601,6 +1580,19 @@
          y="304.64999"
          style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6928">`</text>
+</g><g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round"
+       transform="matrix(0.98040699,0.19698168,-0.19698168,0.98040699,-1250.3905,-752.80319)"
+       id="g6878"><text
+         x="1667.1"
+         y="653.435"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
+         id="text6880">+</text>
+<text
+         x="1667.1"
+         y="684.245"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
+         id="text6882">=</text>
 </g></g><g
      transform="matrix(0.878107,0,0,0.878107,239.129,-139.018)"
      id="Legend"><g
