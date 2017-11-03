@@ -1445,13 +1445,6 @@
          style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
          id="text6852">Num</text>
 </g><g
-       transform="matrix(0.983938,0.178511,-0.178511,0.983938,6.46703,0.89168)"
-       id="g6854"><text
-         x="271.32401"
-         y="492.651"
-         style="font-size:20px;font-family:GothamBook, 'Gotham Book'"
-         id="text6856">PgDn</text>
-</g><g
        transform="matrix(0.984808,0.17365,-0.17365,0.984808,0,0)"
        id="g6858"><text
          x="383.38"
@@ -1593,6 +1586,19 @@
          y="684.245"
          style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
          id="text6882">=</text>
+</g><g
+       style="clip-rule:evenodd;fill-rule:evenodd;stroke-linecap:round"
+       transform="matrix(0.981627,0.190809,-0.190809,0.981627,-31.533689,192.76811)"
+       id="g6924-3"><text
+         x="278.17999"
+         y="264.06"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
+         id="text6926-6">~</text>
+<text
+         x="274.82001"
+         y="304.64999"
+         style="font-size:30px;font-family:GothamBook, 'Gotham Book'"
+         id="text6928-7">#</text>
 </g></g><g
      transform="matrix(0.878107,0,0,0.878107,239.129,-139.018)"
      id="Legend"><g
