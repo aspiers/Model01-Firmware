@@ -35,6 +35,8 @@
 // when the keyboard is connected to a computer (or that computer is powered on)
 #include "Kaleidoscope-LEDEffect-BootGreeting.h"
 
+#include "Kaleidoscope-LEDEffect-DigitalRain.h"
+
 // Support for LED modes that set all LEDs to a single color
 #include "Kaleidoscope-LEDEffect-SolidColor.h"
 
@@ -318,6 +320,8 @@ void setup() {
     // The AlphaSquare effect prints each character you type, using your
     // keyboard's LEDs as a display
     &AlphaSquareEffect,
+
+    &LEDDigitalRainEffect,
 
     // The chase effect follows the adventure of a blue pixel which chases a red pixel across
     // your keyboard. Spoiler: the blue pixel never catches the red pixel
