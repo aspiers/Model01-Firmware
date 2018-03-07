@@ -309,19 +309,19 @@ void setup() {
     // The stalker effect lights up the keys you've pressed recently
     &StalkerEffect,
 
-    // The rainbow effect changes the color of all of the keyboard's keys at the same time
-    // running through all the colors of the rainbow.
-    &LEDRainbowEffect,
+    &LEDDigitalRainEffect,
 
     // The rainbow wave effect lights up your keyboard with all the colors of a rainbow
     // and slowly moves the rainbow across your keyboard
     &LEDRainbowWaveEffect,
 
+    // The rainbow effect changes the color of all of the keyboard's keys at the same time
+    // running through all the colors of the rainbow.
+    &LEDRainbowEffect,
+
     // The AlphaSquare effect prints each character you type, using your
     // keyboard's LEDs as a display
     &AlphaSquareEffect,
-
-    &LEDDigitalRainEffect,
 
     // The chase effect follows the adventure of a blue pixel which chases a red pixel across
     // your keyboard. Spoiler: the blue pixel never catches the red pixel
