@@ -328,7 +328,7 @@ void setup() {
     &LEDChaseEffect,
 
     // The breathe effect slowly pulses all of the LEDs on your keyboard
-    &LEDBreatheEffect,
+    //&LEDBreatheEffect,
 
     // These static effects turn your keyboard's LEDs a variety of colors
     //&solidRed, &solidOrange, &solidYellow, &solidGreen, &solidBlue, &solidIndigo, &solidViolet,
